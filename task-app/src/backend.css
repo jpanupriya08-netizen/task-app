@@ -1,0 +1,10 @@
+.api-alert {
+  margin: -18px 0 22px;
+  padding: 11px 13px;
+  border: 1px solid #efd3cb;
+  border-radius: 7px;
+  background: #fff7f4;
+  color: #a65f4e;
+  font-size: 12px;
+  line-height: 1.5;
+}
